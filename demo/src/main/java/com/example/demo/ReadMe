@@ -1,0 +1,14 @@
+# Shipping Charge Estimator
+
+This is a simple Spring Boot project.
+
+## Features
+- Find nearest warehouse
+- Calculate shipping charge
+- Expose API using Spring Boot
+
+## Run
+1. Open project in IntelliJ
+2. Run DemoApplication
+3. Open browser:
+   http://localhost:8080/shipping
